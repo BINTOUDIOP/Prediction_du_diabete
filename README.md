@@ -34,4 +34,4 @@ Nous avons choisi d'utiliser un modèle **Random Forest Classifier** pour la pr�
 3. **Prédiction** : L'utilisateur entre des informations médicales (telles que le nombre de grossesses, le taux de glucose, etc.) via une interface utilisateur simple.
 4. **Affichage du Résultat** : L'application affiche la probabilité que la personne soit diabétique, et donne une réponse sous forme de succès ou d'erreur, selon la prédiction du modèle.
 
-# Prediction_du_diabete
+
