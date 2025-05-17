@@ -14,7 +14,6 @@ Le dataset comprend plusieurs caractéristiques médicales, telles que :
 - Pregnancies
 - Glucose
 - BloodPressure
-- L'épaisseur de la peau
 - SkinThickness
 - Insulin
 - BMI
@@ -24,7 +23,7 @@ Le dataset comprend plusieurs caractéristiques médicales, telles que :
 
 ## Choix du Modèle
 
-Nous avons choisi d'utiliser un modèle **Random Forest Classifier** pour la prédiction parce qu’il est robuste, fiable et fonctionne bien même avec un petit dataset. Il est capable de gérer des relations complexes entre les variables sans trop risquer de surapprentissage. Il donne également de bonnes performances de prédiction
+Le **Random Forest Classifier** est un modèle de prédiction fiable et fonctionne bien même avec un petit dataset. Il est capable de gérer des relations complexes entre les variables sans trop risquer de surapprentissage. Il donne également de bonnes performances de prédiction
 
 ## Fonctionnement de l'Application
 
